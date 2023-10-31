@@ -1,2 +1,6 @@
 # LAB10
 THIS IS MY FIRST PROJECT OF WEBPAGES
+![WP1](https://github.com/bscs23115/LAB10/assets/149449981/ce13a053-349e-4b0a-ab88-4bf06c2438e7)
+![WP2](https://github.com/bscs23115/LAB10/assets/149449981/55f15435-f85d-4993-9ef1-301b27c4827f)
+![WP3](https://github.com/bscs23115/LAB10/assets/149449981/f2e82338-f9dc-4718-833e-ad2002232335)
+
