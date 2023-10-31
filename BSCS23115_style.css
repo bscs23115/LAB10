@@ -1,0 +1,57 @@
+
+.b{
+    background-color: darkseagreen;
+}
+
+.hd2{
+    background-color:cornflowerblue;
+    display: flex;
+    justify-content: center;
+    padding: 10px;
+    gap: 20px;
+    justify-content: space-around;
+    align-items: center;
+   
+}
+.cl{
+    background-color:aqua;
+}
+
+.a{
+    border:2px solid black;
+    justify-content: space-between;
+}
+.con2{
+    background-color: rgb(105, 31, 31);
+    display: flex;
+    justify-content: space-between;
+    display: grid;
+    grid-template-columns: 200px 3fr 1fr;
+}   
+.hd{
+    background-color: silver;
+    display: flex;
+    justify-content: center;
+    gap: 20px;
+    justify-content: space-around;
+    align-items: center;
+   
+}
+.con2-pc{
+    background-image: url(hasan.jpg);
+    border-radius: 80%;
+    height: 10%;
+    width: 15%;
+}
+header{
+    padding: 20px;
+}
+.cd{
+   
+    margin: 5px;
+    display: flex;
+
+}
+.ab{
+    padding-right: 10px;
+}
